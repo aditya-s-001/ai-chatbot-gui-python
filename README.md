@@ -44,6 +44,30 @@ python AIBot.py
 
 ---
 
+##  Important Notes
+✅ You can edit and expand this project as per your needs.
+
+➕ You can add more input-output combinations to the chatbot in the knowledge_base dictionary.
+
+🎉 You are free to add new features like:
+
+File reading
+
+Weather info
+
+Chat memory
+
+External API integration
+
+🧠 Future Suggestions
+Integrate with OpenAI for smarter replies
+
+Add chat history
+
+Use a database for storing user preferences
+
+Add themes and sound effects
+
 ## 👨‍💼 Developer Info
 
 > Developed by **Aditya Shukla** in **2023** ✨
