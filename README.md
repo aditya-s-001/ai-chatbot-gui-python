@@ -59,7 +59,7 @@ Chat memory
 
 External API integration
 
-🧠 Future Suggestions
+## 🧠 Future Suggestions
 Integrate with OpenAI for smarter replies
 
 Add chat history
